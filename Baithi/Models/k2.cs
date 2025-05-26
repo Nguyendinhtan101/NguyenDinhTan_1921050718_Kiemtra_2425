@@ -1,14 +1,14 @@
 using Baithi.Models;
-na;
-namespace Baithi.Models
+
+namespace Baithi.Models;
 
 public class k2
-[Table]
+
 {
     [Key]
-    public string? RequestId { get; set; }
+    public string? student { get; set; }
 
-    public string k2id { get; set; }
+    public string? stt  { get; set; } = null;
 
     //public boot ShowRequestId => !string.IsNullOrEmpty(RequestId);
 }
