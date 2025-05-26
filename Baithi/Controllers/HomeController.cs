@@ -38,10 +38,6 @@ public class HomeController : Controller
     }
     
 
-    // public IActionResult Privacy()
-    // {
-    //     return View();
-    //     //return Redirect("/Identity/Account/Login");
-    // }
+   
     
 }

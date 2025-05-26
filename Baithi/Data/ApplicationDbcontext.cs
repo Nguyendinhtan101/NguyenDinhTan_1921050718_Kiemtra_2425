@@ -10,6 +10,5 @@ namespace Baithi.Data
         {
         }
 
-        public DbSet<Demo> Demo { get; set; }
-    }
+}
 }
